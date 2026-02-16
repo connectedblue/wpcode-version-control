@@ -21,7 +21,7 @@ If you manage a large number of snippets (PHP, JS, CSS) using WPCode, you know t
 
 ### **Option 1: The Easy Way (Zip)**
 
-1. Download this repository as a ZIP file.  
+1. Download this repository as [a ZIP file](https://github.com/connectedblue/wpcode-version-control/archive/refs/heads/main.zip).  
 2. Go to your WordPress Admin: **Plugins \> Add New \> Upload Plugin**.  
 3. Upload the zip and activate.
 
