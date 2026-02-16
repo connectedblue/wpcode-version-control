@@ -69,4 +69,8 @@ Once installed, you will see a new menu item in your dashboard:
 
 This plugin is a third-party add-on and is not officially affiliated with WPCode (WPCode is a trademark of WPCode). Use this plugin at your own risk. Always ensure you have a full site backup before performing bulk restoration operations on production sites.
 
+This plugin is licensed with the MIT license included in the source.  
+
+It has been only tested with WPCode Lite v2.3.4 and Wordpress 6.9.  There is no intention to keep this plugin updated with past or future versions.  If you decide to use it, you're on your own.
+
 **Enjoy coding safely\!** 🚀
